@@ -2,7 +2,7 @@
 
 > 前提声明：非常感谢b站up主 **嘉然今天吃带变**，感谢其视频的帮助。同时希望各位大佬积积极提出宝贵的意见。😊😊😊(❁´◡`❁)(●'◡'●)╰(*°▽°*)╯
 >
-> github地址：https://github.com/lizhongzheng13/openCV_Lane_Detection/tree/main
+> github地址：[https://github.com/lizhongzheng13/openCV_Lane_Detection/tree/main](https://github.com/zhongzhengli13/openCV_Lane_Detection)
 >
 > 视频地址：[从车道检测项目入门open cv](https://www.bilibili.com/video/BV1qk4y1r7jw/?spm_id_from=333.1391.0.0&p=10&vd_source=3c58a56884ef40ab5aa99f8a00685d85)
 
@@ -707,7 +707,7 @@ if __name__ == '__main__':
 
 以上就是我对这个项目的总结。
 
-同时再次说明我已经将项目上传到[github项目](https://github.com/lizhongzheng13/openCV_Lane_Detection/tree/main)中，欢迎大家多多支持，你们的支持是我最大的前进动力~~~
+同时再次说明我已经将项目上传到[github项目](https://github.com/zhongzhengli13/openCV_Lane_Detection)中，欢迎大家多多支持，你们的支持是我最大的前进动力~~~
 
 再次感谢b站up主 **嘉然今天吃带变**，以及各位大佬的宝贵意见。
 
